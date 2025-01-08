@@ -2,6 +2,9 @@ body {
     padding: 2rem;
     transition: .5s;
 }
+p {
+    text-indent: 1rem;
+}
 .dark-theme {
     background: #000;
     color: #ddd;
